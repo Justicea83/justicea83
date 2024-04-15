@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/justicea83" target="blank"><img src="https://img.shields.io/twitter/follow/justicea83?logo=twitter&style=for-the-badge" alt="justicea83" /></a> </p>
 
-- 🌱 I’m currently learning **Pytorch& Tensorflow**
+- 🌱 Full Stack Engineer| AI | Deployment**
 
 - 💬 Ask me about **react, laravel, django and asp.net core**
 
