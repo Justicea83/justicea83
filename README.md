@@ -10,7 +10,7 @@
 
 - 🌱 **Full Stack Engineer | AI | Deployment**
 
-- 💬 Ask me about **react, laravel, django, AI and asp.net core**
+- 💬 Ask me about **React, Laravel, Django, APIs, Vue and .Net core**
 
 - 📫 How to reach me **justicea83@gmail.com**
 
