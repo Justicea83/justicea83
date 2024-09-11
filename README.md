@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://www.linkedin.com/in/justicea83/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/C5616AQEZ-n2No4-w6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1533248398558?e=1731542400&v=beta&t=DC-YrAutlYaUrmvPUK82bhulvDoXzBpyv46FMTEuKHw)](https://www.linkedin.com/in/justicea83/)
 <h1 align="center">Hi 👋, I'm Justice Arthur</h1>
 <h3 align="center">A passionate fullstack developer based in Toronto, Canada</h3>
 
