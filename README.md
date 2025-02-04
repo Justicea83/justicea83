@@ -1,4 +1,6 @@
-[![MasterHead]([https://media.licdn.com/dms/image/v2/C5616AQEZ-n2No4-w6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1533248398558?e=1731542400&v=beta&t=DC-YrAutlYaUrmvPUK82bhulvDoXzBpyv46FMTEuKHw](https://media.licdn.com/dms/image/v2/C5616AQEZ-n2No4-w6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1533248398558?e=1744243200&v=beta&t=sb4PwTcuZcWCIkKJjSm8N9_uHFlp4xWgrmzUcHrEHbU))](https://www.linkedin.com/in/justicea83/)
+[![MasterHead](https://github.com/user-attachments/assets/1dfc44d3-8257-4c45-9ee7-d181cedc1c49)](https://www.linkedin.com/in/justicea83/)
+
+![1533248398558](https://github.com/user-attachments/assets/1dfc44d3-8257-4c45-9ee7-d181cedc1c49)
 
 
 <h1 align="center">Hi 👋, I'm Justice Arthur</h1>
