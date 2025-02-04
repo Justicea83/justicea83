@@ -1,8 +1,5 @@
 [![MasterHead](https://github.com/user-attachments/assets/1dfc44d3-8257-4c45-9ee7-d181cedc1c49)](https://www.linkedin.com/in/justicea83/)
 
-![1533248398558](https://github.com/user-attachments/assets/1dfc44d3-8257-4c45-9ee7-d181cedc1c49)
-
-
 <h1 align="center">Hi 👋, I'm Justice Arthur</h1>
 <h3 align="center">A passionate fullstack developer based in Toronto, Canada</h3>
 
